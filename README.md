@@ -2,22 +2,38 @@
 
 ## 👻 프로젝트 소개
 **HAZE**는 **3명**이서 언리얼 **C++**를 이용하여 개발한 팀프로젝트로 <u>**스팀**</u>에 출시된 공포 스토리 게임입니다. 
-<br>
+<br><br>
 
 ## 📹 프로젝트 영상 링크 
 ![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)&nbsp;&nbsp;
 [HAZE 플레이영상](https://youtu.be/poInxu4GCr4 "HAZE 영상")
-<br>
+<br><br>
 
 ## 🎮 프로젝트 스팀 링크
 ![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)&nbsp;&nbsp;
 [HAZE 스팀](https://store.steampowered.com/app/4041900/Haze/ "HAZE 스팀링크")
-<br>
+<br><br>
 
 ## 📆 개발기간
-+ 2025.07.22 ~ 2025.09.10 (8주)
-<br>
-+ 스팀준비기간 2025.09.11 ~ 2025.10.09 (4주)
-+ 유저 피드백 소규모 패치 진행중
++ 2025.07.22 ~ 2025.09.10 (8주) <br><br>
++ 스팀준비기간 2025.09.11 ~ 2025.10.09 (4주) <br>
++ 유저 피드백 소규모 패치 진행중 <br>
 
-## 기술 스택 및 환경
+## 🧰 기술 스택 및 환경
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![](	https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+- Language : C++
+- Game Engine : Unreal Engine 5 (C++ / Blueprint 혼합 개발)
+- IDE : Visual Studio 2022
+- Version Control : SVN (Team Collaboration)
+- Gameplay Systems :
+  - Interact System(ActorComponent 기반 상호작용)
+  - AI System(NPC / 적 행동 제어)
+  - Puzzle System
+- Data Handling : DataTable (CSV), SaveGame
+- VFX / SFX : Sound Wave, Audio Component
+- Tools : Blueprint, Behavior Tree, Material Editor, Sequencer etc
+
+## 담당 업무
+
+## 실제 플레이 및 핵심 코드
