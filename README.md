@@ -7,13 +7,13 @@
 ## 📹 프로젝트 관련 링크
 <br>
 
-+ 📹 프로젝트 영상 링크<br> &nbsp;&nbsp;
+### 📹 프로젝트 영상 링크<br>
 
 ![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)&nbsp;&nbsp;
 [HAZE 플레이영상](https://youtu.be/poInxu4GCr4 "HAZE 영상")
 <br>
 
-- 🎮 프로젝트 스팀 링크<br>
+### 🎮 프로젝트 스팀 링크<br>
 ![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)&nbsp;&nbsp;
 [HAZE 스팀](https://store.steampowered.com/app/4041900/Haze/ "HAZE 스팀링크")
 <br><br>
