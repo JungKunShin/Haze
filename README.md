@@ -1,7 +1,7 @@
 # HAZE
 
 ## 👻 프로젝트 소개
-**HAZE**는 **3명**이서 언리얼 C++를 이용하여 개발한 팀프로젝트로 <u>스팀</u>에 출시된 공포 스토리 게임입니다. 
+**HAZE**는 **3명**이서 언리얼 C++를 이용하여 개발한 팀프로젝트로 **스팀**에 출시된 공포 스토리 게임입니다. 
 <br><br>
 
 ## 📹 프로젝트 영상 링크 
@@ -17,7 +17,7 @@
 ## 📆 개발기간
 + 2025.07.22 ~ 2025.09.10 (8주) <br><br>
 + 스팀준비기간 2025.09.11 ~ 2025.10.09 (4주) <br>
-+ 유저 피드백 소규모 패치 진행중 <br>
++ 유저 피드백 소규모 패치 진행중 <br><br>
 
 ## 🧰 기술 스택 및 환경
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![](	https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
@@ -33,7 +33,13 @@
 - Data Handling : DataTable (CSV), SaveGame
 - VFX / SFX : Sound Wave, Audio Component
 - Tools : Blueprint, Behavior Tree, Material Editor, Sequencer etc
+<br><br>
 
-## 담당 업무
-
-## 실제 플레이 및 핵심 코드
+## 🔧 담당 업무
+1. 🚪 액자 퍼즐
+2. 🫙 조합 퍼즐
+3. 👴 AI (할아버지 캐릭터)
+4. 📑 대화창
+5. 🔉 사운드 및 볼륨 조절
+6. 🏃 튜토리얼
+7. 🔚 엔딩크레딧 
