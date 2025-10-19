@@ -7,7 +7,7 @@
 ## 📹 프로젝트 관련 링크
 <br>
 
-+ 📹 프로젝트 영상 링크<br>
++ 📹 프로젝트 영상 링크<br> &nbsp;&nbsp;
 
 ![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)&nbsp;&nbsp;
 [HAZE 플레이영상](https://youtu.be/poInxu4GCr4 "HAZE 영상")
